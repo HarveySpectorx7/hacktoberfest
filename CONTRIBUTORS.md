@@ -16667,3 +16667,7 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+#### Name: [Harvey Spector](https://github.com/HarveySpectorx7)
+- Place: Argentina
+- Bio: Software Developer
+- GitHub: [HarveySpectorx7](https://github.com/HarveySpectorx7)
